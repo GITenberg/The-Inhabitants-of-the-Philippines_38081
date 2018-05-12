@@ -1,0 +1,27 @@
+_repo: The-Inhabitants-of-the-Philippines_38081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sawyer, Frederic H.
+    alias: Sawyer, Frederic Henry Read
+    gutenberg_agent_id: '39237'
+    url: http://www.gutenberg.org/2009/agents/39237
+description: ''
+gutenberg_issued: '2011-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38081'
+  lccn: '01003020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology -- Philippines'
+- !lcc 'DS'
+- !lcsh 'Philippines -- Social life and customs'
+title: The Inhabitants of the Philippines
+url: http://www.gutenberg.org/ebooks/38081
