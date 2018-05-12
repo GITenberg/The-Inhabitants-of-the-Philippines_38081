@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39237'
     url: http://www.gutenberg.org/2009/agents/39237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38081#The-Inhabitants-of-the-Philippines
 gutenberg_issued: '2011-11-21'
 gutenberg_type: Text
 identifiers:
